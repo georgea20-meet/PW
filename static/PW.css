@@ -73,3 +73,9 @@
 #link1{
 	color: blue;
 }
+
+@media screen and (max-width: 480px){
+	.head{
+		color: white;
+	}
+}
