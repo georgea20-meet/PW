@@ -79,3 +79,9 @@
 		color: white;
 	}
 }
+
+@media screen and (max-width: 1242px){
+	.head{
+		color: yellow;
+	}
+}
